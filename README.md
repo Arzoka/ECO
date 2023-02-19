@@ -1,5 +1,7 @@
-# Bliss
+# ECO
 
-## A corporation that strives to create a thriving environmentally friendly economy! 
+### Environment Conserving Operation
 
-Founded by Diya Jawalapersad, Melvin Lockx, Li Hong Chen 15/2/2023
+# A corporation that strives to create a thriving environmentally friendly economy! 
+
+## Founded by Diya Jawalapersad, Melvin Lockx, Li Hong Chen 15/2/2023
