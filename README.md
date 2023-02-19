@@ -1,7 +1,7 @@
-# ECO
+<h1 align="center"> ECO </h1>
 
-### Environment Conserving Operation
+<p align="center"> ECO Environment Conserving Operation </p>
 
-# A corporation that strives to create a thriving environmentally friendly economy! 
+<h2 align="center"> A corporation that strives to create a thriving environmentally friendly economy! </h1>
 
-## Founded by Diya Jawalapersad, Melvin Lockx, Li Hong Chen 15/2/2023
+<p align="center"> Founded by Diya Jawalapersad, Melvin Lockx, Li Hong Chen 15/2/2023 </h2>
