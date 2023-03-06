@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(#393f75,#8e588a,#db7a90);
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+}
+
+::-webkit-scrollbar{
+    display: none;
+    overflow: hidden;
+}
+
+#Dashboard{
+    width: 100vw;
+    height: 70vh;
+    position: absolute;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+    top: 50vh;
+}
+
+.graph-fig{
+    height: 50%;
+    width: 30%;
+    border-radius: 15px;
+    border: 2px solid rgba(255,255,255,0.5);
+}
