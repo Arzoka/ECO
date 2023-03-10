@@ -13,6 +13,11 @@ body{
     height: 150vh;
 }
 
+header{
+    position: absolute;
+    top: 10%;
+}
+
 ::-webkit-scrollbar{
     display: none;
     overflow: hidden;
